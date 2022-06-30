@@ -1,0 +1,16 @@
+# Generated files
+vendor/
+node_modules/
+*.log
+composer.phar
+yarn.lock
+package-lock.json
+
+# Local Configuration
+package.json
+
+# Environment
+.env
+
+# IDE
+.vscode/
